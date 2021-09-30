@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"node_express_api","dependencies":{"express":{"version":"4.17.1"},"nodemon":{"version":"2.0.13"},"uuid":{"version":"8.3.2"}}}
